@@ -6,7 +6,7 @@ I'm an experienced Backend Engineer, currently working for [Grafana Labs](https:
 - 💫 I poke around [Backstage](https://backstage.io/) and maintain a few OSS plugins: [backstage-plugin-announcements](https://github.com/K-Phoen/backstage-plugin-announcements/), [backstage-plugin-confluence](https://github.com/K-Phoen/backstage-plugin-confluence/), [backstage-plugin-grafana](https://github.com/K-Phoen/backstage-plugin-grafana/), [backstage-plugin-opsgenie](https://github.com/K-Phoen/backstage-plugin-opsgenie)
 - ✍️ Sometimes I write stuff on [my blog](https://blog.kevingomez.fr/)
 - 💬 Ask me about Developer Experience, engineering practices, observability, automation, software design, … or anything you are passionate about!
-- 📫 Reach me [on Twitter](https://twitter.com/KPhoen)
+- 📫 Reach me on [Twitter](https://twitter.com/KPhoen) or [Mastodon](https://hachyderm.io/@kphoen)
 
 <!--
 **K-Phoen/K-Phoen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
